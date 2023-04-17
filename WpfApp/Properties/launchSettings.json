@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WpfApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Project\\WpfApp\\ProvaLineaComando.txt"
+    }
+  }
+}
